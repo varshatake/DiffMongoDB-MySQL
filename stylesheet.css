@@ -1,0 +1,62 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+body{
+    background-color: #F5FFFA;
+}
+.container{
+    margin-top: 40px;
+}
+
+.allaboutmongo{
+    display: inline-block;
+    box-sizing: border-box;
+    border: 0.5px solid;    
+}
+#mongo{
+    width: 500px;
+    height: 300px;
+    margin-bottom: 30px;
+}
+#mongopoint{
+    position: relative;
+    bottom: 15px;
+}
+
+.point{
+    text-align: center;
+    background-color: #008000;
+    color:white;
+    padding: 10px;
+    font-size: x-large;
+}
+
+.allaboutmysql{
+    display: inline-block;
+    box-sizing: border-box;
+    border: 0.5px solid;
+    position: relative;
+    right:5px;
+}
+
+.mainpoint{
+    background-color: red;
+    color:white;
+    padding: 10px;
+    font-size: x-large;
+}
+#mysql{
+    width: 500px;
+    height: 310px;
+}
+
+p{
+    padding: 10px;
+}
+
+.content{
+    font-size: larger;
+}
